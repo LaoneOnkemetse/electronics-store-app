@@ -10,8 +10,8 @@ developed with visual studio code
 
 ## Components
 Models which consists of the skeletons of all the modules(users,products and userCart)
-seeder consists of the dummy data of users and products available for testing
-The actual source code that performs the discount is found under the app.js
+seeder consists of the dummy data of users and products available for testing.
+The actual source code that performs the discount is found under the app.js, it will recieve a list of products chosen by the user and calculate tthe cost before determining the final discounted total. It will then give out a receipt as output.
 
 ## Test cases
 *user qualifies for all percentage discounts*
